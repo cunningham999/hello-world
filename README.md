@@ -1,2 +1,2 @@
 # hello-world
-My Hellow World Example!
+My Hello World Example!
